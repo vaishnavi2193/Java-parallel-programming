@@ -1,0 +1,20 @@
+Sophia Thompson
+&&ForkJoinPool.commonPool-worker-1&& retrieving Sophia Thompson's birth year and gender....
+&&ForkJoinPool.commonPool-worker-1&& returned Sophia Thompson's birth year and gender
+Die at 84
+^^ForkJoinPool.commonPool-worker-1^^ Retrieving Retirement age ....
+^^ForkJoinPool.commonPool-worker-1^^ returned Retirement age: 68
+Retirement years=16
+^^ForkJoinPool.commonPool-worker-1^^ Retrieving Retirement age ....
+==ForkJoinPool.commonPool-worker-4== retrieving a start super age...
+^^ForkJoinPool.commonPool-worker-1^^ returned Retirement age: 61
+==ForkJoinPool.commonPool-worker-4== returned a start super age: 32
+**ForkJoinPool.commonPool-worker-4** retrieving strategy ...
+**ForkJoinPool.commonPool-worker-4** returned strategy: balanced
+##ForkJoinPool.commonPool-worker-4## retrieving contribution percentage ....
+##ForkJoinPool.commonPool-worker-4## returned contribution percentage:11
+Working years=29
+Super payout=5.7 (median salaries)
+Strategy:balanced
+Contribution:11
+Miserable poverty...You live on 35.5% of median salary
